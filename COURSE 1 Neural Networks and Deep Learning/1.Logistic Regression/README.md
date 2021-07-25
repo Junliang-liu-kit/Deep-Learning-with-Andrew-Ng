@@ -1,4 +1,4 @@
-##Logistic Regression as a Neural Network
+## Logistic Regression as a Neural Network
 build a logistic regression classifier to recognize cats. 
 * Build the general architecture of a learning algorithm, including:
   * Initializing parameters
